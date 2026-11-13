@@ -83,3 +83,4 @@ Local fallback photos can be placed as:
 - `images/faculty/<slug>.jpeg`
 - `images/faculty/<slug>.png`
 - `images/faculty/<slug>.webp`
+13-11-2026
